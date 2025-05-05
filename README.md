@@ -92,6 +92,3 @@ plt.show()
 ## Result
 THUS THE QPSK (Quadratic Phase Shift Keying) IS PERFORMED USING PYTHON.
 
-## Hardware Experiment
-![WhatsApp Image 2025-05-01 at 14 59 42_7140a628](https://github.com/user-attachments/assets/cee8259e-452f-4f3e-98b0-b2e5147d4b0f)
-
